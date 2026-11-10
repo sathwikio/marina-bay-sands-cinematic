@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-11-10T04:06:27.370Z",
+  "status": "PASSED",
+  "initialMetrics": {
+    "fps": 60,
+    "frameTimeMs": 16.6,
+    "drawCalls": 1009,
+    "triangles": 37906,
+    "geometries": 114,
+    "textures": 26
+  },
+  "playbackMetrics": {
+    "fps": 61,
+    "frameTimeMs": 16.5,
+    "drawCalls": 26,
+    "triangles": 14774,
+    "geometries": 124,
+    "textures": 26
+  },
+  "capturedShots": [
+    "shot1_waterfront_approach.png",
+    "shot2_tower_ascent.png",
+    "shot3_skypark_flyover.png",
+    "shot4_architectural_orbit.png",
+    "shot5_panoramic_pullback.png",
+    "shot5_hero_tableau.png"
+  ],
+  "errors": []
+}
